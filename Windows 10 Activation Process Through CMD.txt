@@ -1,0 +1,31 @@
+﻿Activate Windows 10 Using CMD12
+Activating Windows 10 using Command Prompt (CMD) is a straightforward process. It involves accessing the Command Prompt with administrative privileges and running a few specific commands.
+Example
+1. Open Command Prompt as Administrator: Right-click on the Start menu and select “Command Prompt (Admin)” or “Windows PowerShell (Admin).”
+2. Install the Windows 10 Product Key: slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX Replace your-product-key with your actual 25-character product key.
+3. Set the KMS Server: slmgr /skms kms-server-address Replace kms-server-address with the actual address of your KMS server.
+4. Activate Windows: slmgr /ato
+After running these commands, your Windows 10 should be activated. You can verify the activation status by typing slmgr /xpr in the Command Prompt and pressing Enter.
+Important Considerations
+* Ensure Administrative Privileges: Always run CMD as an administrator to avoid permission issues.
+* Double-Check Your Product Key: Make sure your 25-character product key is correct to prevent errors during activation.
+* Stable Internet Connection: Ensure you have a stable internet connection, especially if you’re using KMS activation.
+* Verify KMS Server Address: Double-check the KMS server address to avoid connection problems.
+* Check Activation Status Regularly: Use slmgr /xpr to periodically verify the activation status of your Windows 10.
+By following these steps, you can easily activate your Windows 10 using CMD and ensure that your operating system is fully functional and up-to-date.
+
+
+
+
+Windows 10 Activation Keys
+Below is a list of Windows 10 Volume license keys.
+Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM
+Home Single Language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+Home Country Specific: PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
+Professional: W269N-WFGWX-YVC9B-4J6C9-T83GX
+Professional N: MH37W-N47XK-V7XM9-C7227-GCQG9
+Education: NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+Education N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+Enterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43
+Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
