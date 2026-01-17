@@ -4,7 +4,7 @@ Activating Windows 10 using Command Prompt (CMD) is a straightforward process. I
 
 1. Open Command Prompt as Administrator: Right-click on the Start menu and select “Command Prompt (Admin)” or “Windows PowerShell (Admin).”
 2. Install the Windows 10 Product Key: slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
-3. Set the KMS Server: slmgr /skms kms.xspace.in
+3. Set the KMS Server: slmgr /skms zh.us.to OR slmgr /skms kms.xspace.in
 4. Activate Windows: slmgr /ato
 
 
@@ -34,4 +34,5 @@ Education N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
 Enterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43
 
 Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+
 
